@@ -2,7 +2,7 @@
    Day 3: change the two colours, check contrast, then switch on the media query. */
 
 :root {
-  --main-colour: #1a2a3a;    /* header background */
+  --main-colour: #95d379e0;    /* header background */
   --accent-colour: #0000FF;  /* buttons and focus outline; passes 4.5:1 on white */
 }
 
@@ -10,7 +10,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   line-height: 1.6;
   margin: 0;
-  color: #1a1a1a;
+  color: #72d63fbf;
   background: #ffffff;
 }
 
