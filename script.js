@@ -14,11 +14,11 @@ if (toggleButton) {
   toggleButton.addEventListener("click", function () {
     if (isOpen) {
       details.hidden = true;
-      toggleButton.textContent = "Show this week's challenge";
+      toggleButton.textContent = "Show your challenge";
       isOpen = false;
     } else {
       details.hidden = false;
-      toggleButton.textContent = "Hide this week's challenge";
+      toggleButton.textContent = "Hide your challenge";
       isOpen = true;
     }
     console.log("Box open:", isOpen);
