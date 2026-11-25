@@ -1,4 +1,4 @@
-# Byte Club
+# guide 2 coding
 
 ## What this site is
 A website for Byte Club, a made-up coding club that meets in the computer room. One or two sentences.
